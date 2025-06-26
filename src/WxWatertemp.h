@@ -1,7 +1,3 @@
-//
-// Created by Stepan Seliuk on 6/26/2025.
-//
-
 #ifndef WXWATERTEMP_H
 #define WXWATERTEMP_H
 
