@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "vcpkg",
+      "generator": "Ninja",
+      "cacheVariables": {
+        "VCPKG_ROOT": "C:/Users/Stepan Seliuk/.vcpkg-clion/vcpkg",
+        "VCPKG_TARGET": "x64-windows-static-md"
+      }
+    }
+  ]
+}
